@@ -1,6 +1,6 @@
 # Real-Heroes-of-Overwatch
 
-##Team Members
+## Team Members
 Eric Lee - Statistical analyses 
 Hadi Hanif – Data Gathering and Preparation
 Mark Rotil – Data Gathering and Preparation
