@@ -1,11 +1,11 @@
 # Real-Heroes-of-Overwatch
 
 ## Team Members
-Eric Lee - Statistical analyses 
-Hadi Hanif – Data Gathering and Preparation
-Mark Rotil – Data Gathering and Preparation
-Nikita Case – Graphs 
-Murat Cagri Koc – Data Cleaning
+- Eric Lee - Statistical analyses 
+- Hadi Hanif – Data Gathering and Preparation
+- Mark Rotil – Data Gathering and Preparation
+- Nikita Case – Graphs 
+- Murat Cagri Koc – Data Cleaning
 
 ## Background 
 Overwatch is a first-person shooter, cross-platform game in which players select ‘heroes’ with abilities. Players are assigned to two teams of six and allowed to pick from 30 heroes, whose roles can be divided into three categories – support, damage and tank. 
