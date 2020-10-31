@@ -8,13 +8,17 @@
 - Murat Cagri Koc – Data Cleaning
 
 ## Background 
-Overwatch is a first-person shooter, cross-platform online game in which players select ‘heroes’ with abilities. Players are assigned to two teams of six and allowed to pick from 30 heroes, whose roles can be divided into three categories – support, damage and tank. 
+Overwatch is a first-person shooter, online PC game in which players select ‘heroes’ with abilities. Players are assigned to two teams of six and allowed to pick from 30 heroes, whose roles can be divided into three categories – support, damage and tank. 
 
 ## Objectives
--	Identify players who chose a specific hero
--	Identify the best players for each hero across each category (tank, support, damage) for 2020
--	Compare player statistics with team statistics
--	Create visualisations for the best player of each hero
+-	Identify the best players for each hero across each category (tank, support, damage) for the 2019 season
+- Identify the best players in each category 
+- Compare player statistics for each hero with average across all players for season 2019
+-	Compare player statistics with their team statistics
+- Determine single highest overall damage from one player
+- Find pick rates for each hero in each class
+- Determine which team has the best overall stats
+- Determine which team has the highest kill rate and win rate per map 
 
 ## Data Sources
 -	CSV files from the overwatch website 
